@@ -84,7 +84,6 @@ I independently designed the dashboard layout, applied custom formatting, create
 |------|-------------|
 | `COVID19Dashboard.twbx` | Tableau packaged workbook  
 | `*.png` | Visualizations for use in README or portfolio  
-| `COVID_Data.hyper` | Source data file used in Tableau  
 | `Presentation Screenshot` | Final dashboard layout  
 
 ---
