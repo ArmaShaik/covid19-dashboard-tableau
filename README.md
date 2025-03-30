@@ -77,22 +77,6 @@ I independently designed the dashboard layout, applied custom formatting, create
 
 ---
 
-## 📷 Visual Snapshots
-
-### 📍 Dashboard Summary
-
-![Dashboard Summary](./TableauDashboard/DashboardSummary.png)
-
-### 📍 U.S. State-Level New Positive Cases
-
-![New Positive Cases by US States](./TableauDashboard/NewCasesByState.png)
-
-### 📍 Total Reported Cases as of April 29, 2022
-
-![Total Cases](./TableauDashboard/TotalCases.png)
-
----
-
 
 ## 📁 Files Included
 
