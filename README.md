@@ -1,6 +1,7 @@
 # Data Visualization: COVID-19 Dashboard Using Tableau
 
-This project showcases an interactive Tableau dashboard built to explore global and U.S. COVID-19 trends from January 21, 2020 to April 29, 2022. Using publicly available datasets, the dashboard highlights total positive cases, new daily case trends, and regional impact through spatial and time-series visualizations. The objective was to apply dashboard design principles and visual storytelling to uncover actionable insights.
+This project presents a Tableau-based interactive dashboard analyzing global and U.S. COVID-19 trends from **January 21, 2020 to April 29, 2022**, using publicly available datasets. The goal was to apply dashboard design principles for spatial and time-series exploration — highlighting total cases, new daily trends, and regional impact.
+
 ---
 
 ## 🌐 Project Context
